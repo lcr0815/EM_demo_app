@@ -1,0 +1,23 @@
+{
+  "ClientBuildDetails": {
+    "CommitHash": "e4ae39aeeaca7fc2270ba2ea791e377d386021a0",
+    "IsLocalBuild": true
+  },
+  "ClientPerFileChecksums": {
+    "AppCheckerResult.sarif": "C6_LdZmhAJKUkyv2fzfR59tktd8eLMO0aMOvAJlHhQzOxM=",
+    "Controls\\1.json": "C6_41d7kAY5NYhHdmSzZmIHrnvJIHWUaGCxuBz4kFfL78s=",
+    "Controls\\3.json": "C6_xmr9oZwyJa0Qng/CHj/tZyfdY99dkhDRKg6dsbExFE8=",
+    "Controls\\41.json": "C6_aTjjufQU1OgJ5HxBGQTVJrRIPEjjQh+oJroBtZeg1+s=",
+    "Controls\\6.json": "C6_YTiOtK4TpbcyHVHJ42SPGKPHMS/vvnMBY793/GTDxwk=",
+    "Header.json": "C6_+jnhY/XEbTfMbLvWylaRhXMfSstyjPkbdR9vH0HJv0M=",
+    "Properties.json": "C6_nmFwzqYeqVFvz1Kzh8Kl+kM8BXdZT0YM2Y3WFXNIpFM=",
+    "References\\DataSources.json": "C6_TW08q81gp2NoRZcbqfT2iuDaDIMVdhftrDV/YNhpfJA=",
+    "References\\Resources.json": "C6_s+se9qfOYnCKwfIt6gbv1FGBHW47JCt5d/CkUpqbcjk=",
+    "References\\Templates.json": "C6_E2xDx8NYVBFRfHdACDu5VVLIahuPlR0EEV8XCryMYPY=",
+    "References\\Themes.json": "C6_/D6wo750c7Vhk5N9Lrx5D/Hxu82RFBeUpooPHRzhyzs=",
+    "Resources\\PublishInfo.json": "C6_GUuOOqXsLfP7Qvk0y5o3gDZK/O6sKGJN+2qwigMTqFk=",
+    "Resources\\tgekntfv.jpg": "C6_CdbTla43/b1efxQxz5/bqB3sdrogJnJxngtwzKj+mZM="
+  },
+  "ClientStampedChecksum": "C6_oIVof/nGw1lS85JrK9nMSUZ/AJsJ/dEjVzdHDfiV+l0=",
+  "ServerStampedChecksum": "C4_r9kTN5KmY3jJuQNPTgGGtvQaZ7sPdnTMvsczgQxoSfw="
+}

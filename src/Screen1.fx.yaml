@@ -1,0 +1,23 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Height: =142
+        OnSelect: |-
+            =NewForm(Form1); ClearCollect(ExpenseCollection, {LineItem:"", LineCost: 0, ShowEditButtons: true});Navigate(NewItem, ScreenTransition.Cover)
+        Size: =24
+        Text: ="Create Expense"
+        Width: =332
+        X: =50
+        Y: =60
+        ZIndex: =1
+
+    Button1_1 As button:
+        Height: =142
+        OnSelect: =Navigate('View Screen', ScreenTransition.Cover)
+        Size: =24
+        Text: ="View & Edit"
+        Width: =332
+        X: =486
+        Y: =60
+        ZIndex: =2
+

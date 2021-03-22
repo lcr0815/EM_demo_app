@@ -1,0 +1,34 @@
+{
+  "a4785e1f-cdfd-49e4-aa7a-96cdd9ff37b0": {
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/0be7ff781bed41a88f6d24d710a469c4",
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1451/1.0.1451.2361/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {}
+    },
+    "datasets": {
+      "https://cognizantonline.sharepoint.com/sites/Macys2": {
+        "dataSources": {
+          "ExpenseDetails": {
+            "tableName": "24f7ff6d-e0f1-4dee-be00-45183116638b"
+          },
+          "ExpenseMaster": {
+            "tableName": "ba1ff756-8720-458a-a6e7-f597a91f3f25"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "ExpenseDetails",
+      "ExpenseMaster"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "a4785e1f-cdfd-49e4-aa7a-96cdd9ff37b0"
+  }
+}
